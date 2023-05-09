@@ -1,0 +1,4 @@
+/home/tanhaozhang/zed_bow/src/bag_of_word/build/CMakeFiles/rebuild_cache.dir
+/home/tanhaozhang/zed_bow/src/bag_of_word/build/CMakeFiles/edit_cache.dir
+/home/tanhaozhang/zed_bow/src/bag_of_word/build/CMakeFiles/loop_closure.dir
+/home/tanhaozhang/zed_bow/src/bag_of_word/build/CMakeFiles/feature_training.dir

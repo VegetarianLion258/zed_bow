@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tanhaozhang/zed_bow/src/bag_of_word/feature_training.cpp
+DBoW3/DBoW3.h
+/home/tanhaozhang/zed_bow/src/bag_of_word/DBoW3/DBoW3.h
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/features2d/features2d.hpp
+-
+iostream
+-
+vector
+-
+string
+-
+
