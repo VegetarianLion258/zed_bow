@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tanhaozhang/zed_bow/src/feature_matching/build",
+  "command": "/usr/bin/c++  -DVIDEO_MOD_AVAILABLE -isystem /usr/local/include/opencv    -Wall -Wextra -Wpedantic -O3 -w -std=gnu++14 -o CMakeFiles/orb_matching.dir/orb_matching.cpp.o -c /home/tanhaozhang/zed_bow/src/feature_matching/orb_matching.cpp",
+  "file": "/home/tanhaozhang/zed_bow/src/feature_matching/orb_matching.cpp"
+}
+]

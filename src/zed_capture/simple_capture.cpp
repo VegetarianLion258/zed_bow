@@ -13,7 +13,7 @@ int main(int argc, char **argv) {
   sl_oc::VERBOSITY verbose = sl_oc::VERBOSITY::INFO; 
   // ----> Set Video parameters
   sl_oc::video::VideoParams params;
-  params.res = sl_oc::video::RESOLUTION::VGA;
+  params.res = sl_oc::video::RESOLUTION::HD720;
   params.fps = sl_oc::video::FPS::FPS_30;
   params.verbose = verbose;
   // <---- Set Video parameters
